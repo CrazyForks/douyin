@@ -28,11 +28,11 @@
 <img width="150px" src='docs/imgs/img-5.jpg' />
 </div>
 
-## Online access
+## online access
 
 Vercel:<http://dy.ttentau.top/>(China recommends visiting this)
 
-Netlify:<https://douyins.netlify.app/>(Recommended to visit this for areas outside China)
+Netlify:<https://douyins.netlify.app/>(Recommend visiting this for areas outside China)
 
 Android Apk:<https://github.com/zyronon/douyin/releases>
 
@@ -61,7 +61,7 @@ npm run dev
 
 Open your browser and visit:<http://127.0.0.1:3000>
 
-**Note: PC browser must be switched to mobile mode, first press`F12`To bring up the console, press`Ctrl+Shift+M`to preview normally**
+**Note: PC must switch the browser to mobile mode, first press`F12`To bring up the console, press`Ctrl+Shift+M`to preview normally**
 
 ## Link
 
